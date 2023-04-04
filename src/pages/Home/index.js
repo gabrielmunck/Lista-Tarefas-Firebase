@@ -1,6 +1,8 @@
 import { useState } from "react";
 import './home.css'
 
+import Footer from "../../components/Footer/Footer";
+
 import { Link, useNavigate } from "react-router-dom";
 
 import { auth } from "../../firebaseConnection";
@@ -60,6 +62,9 @@ export default function Home() {
         <Link className="button-link" to='/register'>Não possui uma conta? Cadastre-se aqui!</Link>
 
       </form>
+
+
+      <Footer />
 
 
 

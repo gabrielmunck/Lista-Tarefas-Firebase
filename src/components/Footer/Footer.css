@@ -1,0 +1,19 @@
+.footer-copyright {
+    background-color: #15171a;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 5%;
+    padding: 40px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.p-copyright {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+  text-align: center;
+}
