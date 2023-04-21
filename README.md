@@ -2,7 +2,7 @@
 
 ## Acesso
 
-Deploy - Voce pode acessar o projeto clicando [Neste Link](https://catalagoprimeflix.netlify.app/).
+Deploy - Voce pode acessar o projeto clicando [Neste Link](https://lista-de-tarefas-do-munck.netlify.app/).
 
 ## Descrição
 
