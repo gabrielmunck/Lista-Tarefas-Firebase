@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react'
 import './admin.css'
 
+import Footer from '../../components/Footer/Footer';
+
 import { auth, db } from '../../firebaseConnection'
 import { signOut } from 'firebase/auth'
 
@@ -148,6 +150,7 @@ export default function Admin() {
                 </article>
             ))}
 
+            <Footer/>
             <button className='btn-logout' onClick={handleLogout}>Sair</button>
         </div>
     )
